@@ -1,4 +1,27 @@
 # prueba_by_andres_f_meza_front
+
+
+## Requeriments
+
+after dowload the project  you need run 
+this project use git flow after download run command git flow init enter default options and run git checkout develop before coding
+
+next run the command
+
+### npm install 
+
+### or 
+### yarn install 
+
+### for install dependencies
+
+in the folder src/environments  you will found the url environments routes for backend the project is in develop mode yet 
+
+you can found the backend in (https://github.com/andresfmm/prueba_by_andres_f_meza)
+
+!!happy coding :)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,3 +68,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+

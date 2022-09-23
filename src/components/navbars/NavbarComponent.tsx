@@ -17,7 +17,7 @@ export const NavbarComponent = () => {
                   <Link to="/" className="nav-link  text-white">Consumir api</Link>
                 </li>
                 <li className="nav-item">
-                  <Link to="/crud" className="nav-link  text-white">Crud</Link>
+                  <Link to="/crear-usuario" className="nav-link  text-white">Crear usuario</Link>
                 </li>
                 <li className="nav-item">
                   <NavLink to="/lista-crud" className="nav-link  text-white">Lista crud</NavLink>
