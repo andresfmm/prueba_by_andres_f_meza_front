@@ -7,8 +7,8 @@ import {
 
 
 import { Index } from '../pages/Index';
-import { Crud } from '../pages/Crud';
-import { ListaCrud } from '../pages/ListaCrud';
+import { CrearUsuario } from '../pages/CrearUsuario';
+import { ListaUsuarios } from '../pages/ListaUsuarios';
 import { NavbarComponent } from '../components/navbars/NavbarComponent';
 
 export const AppRouter = () => {
@@ -16,11 +16,11 @@ export const AppRouter = () => {
 
    <>
     <NavbarComponent/> 
-    <div className="container"> 
+    <div className="container d-flex"> 
         <Routes>
             <Route   path="/" element={<Index />} />
-            <Route   path="crud" element={<Crud />} />
-            <Route   path="lista-crud" element={<ListaCrud />} />
+            <Route   path="crear-usuario" element={<CrearUsuario />} />
+            <Route   path="lista-crud" element={<ListaUsuarios />} />
         </Routes>
     </div>
    </>
