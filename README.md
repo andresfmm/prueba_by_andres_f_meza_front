@@ -3,8 +3,8 @@
 
 ## Requeriments
 
-after dowload the project  you need run 
-this project use git flow after download run command git flow init enter default options and run git checkout develop before coding
+this project use git flow after download run command git checkout develop and next run de the command
+git flow init enter default options
 
 next run the command
 
